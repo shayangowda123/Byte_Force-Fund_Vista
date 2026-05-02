@@ -175,40 +175,50 @@ npm run build
 Preview Build
 npm run preview
 
-Where FundVista Can Be Used
+## Where FundVista Can Be Used
 
 FundVista can be used in:
 
-government fund monitoring
-scholarship systems
-welfare schemes
-NGO fund tracking
-CSR fund monitoring
-infrastructure projects
-public procurement systems
-Future Improvements
+- government fund monitoring
+- scholarship systems
+- welfare schemes
+- NGO fund tracking
+- CSR fund monitoring
+- infrastructure projects
+- public procurement systems
+
+---
+
+## Future Improvements
 
 FundVista can be expanded with:
 
-blockchain for tamper-proof records
-AI fraud scoring
-geo-tagged work verification
-smart contract fund release
-beneficiary identity verification
-vendor trust scoring
-Why This Project Matters
+- blockchain for tamper-proof records
+- AI fraud scoring
+- geo-tagged work verification
+- smart contract fund release
+- beneficiary identity verification
+- vendor trust scoring
+
+---
+
+## Why This Project Matters
 
 FundVista helps make public spending:
 
-transparent
-trackable
-verifiable
-accountable
+- transparent
+- trackable
+- verifiable
+- accountable
 
 It is built to reduce corruption and improve trust in public systems.
 
-Vision
+---
+
+## Vision
 
 The goal of FundVista is simple:
-Make public money easy to track and hard to misuse.
+
+> Make public money easy to track and hard to misuse.
+
 When every fund movement is visible, corruption becomes harder to hide.
